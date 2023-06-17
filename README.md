@@ -9,13 +9,13 @@ The back end development part of an internet website refers to the server side o
 
 ### 2) What are tags in HTML? Explain the each category of tag with an Example.
 In HTML, the tags are the building blocks which are used to structure and define the elements within a webpage. They are enclosed in angular brackets (<>). There are many types of tags in html, like 
-i) Structural tags like <html> which defines the html document, <head> which defines the header section, <body> which contains the main content of the webpage.
-ii) Text formatting tags like <h1> to <h6> which define the various headings, <p> which denotes paragraph 
-iii) Link tags like anchor tag <a> which is used to create hyperlinks 
-iv) List tags like <ul> which represents an unordered list, <ol> which represents an ordered list, <li> to define list items 
-v) Table tags like <table>, <tr> which represents a table row, <th> defines table header, <td> defines table data
-vi) Form tags like <form>, <input> which are used to create a form 
-vii) Media tags like <img>, <video>, <audio> are used to insert images, videos and audio files.
+i) Structural tags like html which defines the html document, head which defines the header section, body which contains the main content of the webpage.
+ii) Text formatting tags like h1 to h6 which define the various headings, p which denotes paragraph 
+iii) Link tags like anchor tag a which is used to create hyperlinks 
+iv) List tags like ul which represents an unordered list, ol which represents an ordered list, li to define list items 
+v) Table tags like table, tr which represents a table row, th defines table header, td defines table data
+vi) Form tags like form, input which are used to create a form 
+vii) Media tags like img, video, audio are used to insert images, videos and audio files.
 
 
 ### 3) Explain the working Procedure of Virtual DOM.

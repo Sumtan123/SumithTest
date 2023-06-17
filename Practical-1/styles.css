@@ -1,0 +1,21 @@
+body{
+    background-color: palevioletred;
+    text-align: center;
+    font-family: ‘Poppins’,sans-serif;
+}
+
+button{
+    background-color:gold;
+}
+
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: aliceblue;
+    margin:auto;
+    padding-top: 5;
+}
+
+h1{
+    padding-top: 50;
+}

@@ -20,6 +20,9 @@ function App() {
         <label htmlFor="phone">Phone number:</label>
         <input type="tel" id="phone" />
 
+        <label htmlFor="course">Course:</label>
+        <input type="text" id="course" />
+
         <label htmlFor="address">Address:</label>
         <textarea id="address" rows="4"></textarea>
 

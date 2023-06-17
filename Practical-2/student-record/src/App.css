@@ -37,7 +37,12 @@
   }
 }
 
+.title{
+  text-align: center;
+  background-color: #61dafb;
+}
 .container {
+  background-color: azure;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,5 +77,4 @@ button {
   color: #fff;
   border: none;
   border-radius: 3px;
-  cursor: pointer;
 }
